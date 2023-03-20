@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Delish</string>
+
+    <string name="first_slide">Choose Your Products</string>
+    <string name="second_slide">Food Delivery</string>
+    <string name="third_slide">Good Services</string>
+
+    <string name="description">loremnkdkvlndslnvpdnvpndopvn;dnv;ndovndkvnpdsnvpdmvpndknvpsndvpndskkp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <style name="navigation_drawer_open">Open Navigation Drawer</style>
+
+    <style name="navigation_drawer_close">Close navigation drawer</style>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigaton Drawer</string>
+
+</resources>
